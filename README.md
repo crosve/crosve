@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Java**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-42739.web.app/](https://portfolio-42739.web.app/](https://crosvelucerov-git-main-crosves-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://crosvelucerov-git-main-crosves-projects.vercel.app/)
 
 - 📫 How to reach me **crosvelucero@gmail.com**
 
