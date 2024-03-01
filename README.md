@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Crosve</h1>
+<h1 align="center">Hi, I'm Crosve</h1>
 <h3 align="center">A passionate developer who's always looking for a new challenge</h3>
 
 - 🔭 I’m currently working on [Samuel](https://samuellucero-git-test-crosves-projects.vercel.app/)
 
 - 🌱 I’m currently learning **React, Vue, Java**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-42739.web.app/](https://portfolio-42739.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-42739.web.app/](https://portfolio-42739.web.app/](https://crosvelucerov-git-main-crosves-projects.vercel.app/)
 
 - 📫 How to reach me **crosvelucero@gmail.com**
 
