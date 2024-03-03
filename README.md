@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Java**
 
-- 👨‍💻 All of my projects are available at (crosvelucero.com)
+- 👨‍💻 All of my projects are available at (www.crosvelucero.com)
 
 - 📫 How to reach me **crosvelucero@gmail.com**
 
