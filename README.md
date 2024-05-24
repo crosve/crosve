@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a friendly running application for runners of every background 
 
-- 🌱 I’m currently learning **React, Vue, Java**
+- 🌱 I’m currently learning **React, Java, System Design*
 
 - 👨‍💻 All of my projects are available at (https://crosvelucero.com)
 
 - 📫 How to reach me **crosvelucero@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kFLioRJ6ZEvplNt6XEQ9N6gSaZUtZPME/view]([https://drive.google.com/file/d/1kFLioRJ6ZEvplNt6XEQ9N6gSaZUtZPME/view](https://drive.google.com/file/d/1bhzlNUBK1442sWBv1EP6OvWiVZbYsNLn/view?usp=sharing))
+- 📄 Know about my experiences https://drive.google.com/file/d/1bhzlNUBK1442sWBv1EP6OvWiVZbYsNLn/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
