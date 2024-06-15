@@ -10,6 +10,7 @@
 - 📫 How to reach me **crosvelucero@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1bhzlNUBK1442sWBv1EP6OvWiVZbYsNLn/view?usp=drive_link
+- If you're curious my leetcode account : https://leetcode.com/u/crosve/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
