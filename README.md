@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Crosve</h1>
-<h3 align="center">A passionate developer who's always looking for a new challenge</h3>
+<h3 align="center">A developer for fun</h3>
 
-- 🔭 I’m currently working on a friendly running application for runners of every background 
+- 🔭 Currently starting my fall semester, 3 cs classes 3 projects ╰(*°▽°*)╯
 
-- 🌱 I’m currently learning **React, Java, System Design*
+- 🌱 I’m currently learning more about good swe practice
 
 - 👨‍💻 All of my projects are available at (https://crosvelucero.com)
 
 - 📫 How to reach me **crosvelucero@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1bhzlNUBK1442sWBv1EP6OvWiVZbYsNLn/view?usp=drive_link
-- If you're curious my leetcode account : https://leetcode.com/u/crosve/
+- Leetcode grind : https://leetcode.com/u/crosve/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
