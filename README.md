@@ -3,7 +3,7 @@
 
 - 🔭 Currently starting my fall semester, 3 cs classes 3 projects ╰(*°▽°*)╯
 
-- 🌱 I’m currently learning more about good swe practice
+- 🌱 I’m currently learning about ML
 
 - 👨‍💻 All of my projects are available at (https://crosvelucero.com)
 
