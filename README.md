@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Crosve</h1>
 <h3 align="center">A developer for fun</h3>
 
-- 🔭 Currently starting my fall semester, 3 cs classes 3 projects ╰(*°▽°*)╯
+- 🔭 Currently starting my fall semester, 3 cs classes 3 projects ╰(*°▽°*)╯ **Update: Nah I'd win
 
 - 🌱 I’m currently learning about ML
 
