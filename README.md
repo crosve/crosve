@@ -3,8 +3,6 @@
 
 - 🔭 Currently working @TipTop Technologies
 
-- 🌱 Currently just building tools that make my life easier
-
 - 👨‍💻 All of my projects are available at (https://crosvelucero.com)
 
 - 📫 How to reach me **crosvelucero@gmail.com**
