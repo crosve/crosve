@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Crosve</h1>
 <h3 align="center">A developer for fun</h3>
 
-- 🔭 Currently working @TipTop Technologies
+- 🔭 Currently working @Blitz corp
 
 - 👨‍💻 All of my projects are available at (https://crosvelucero.com)
 
