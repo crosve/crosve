@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Crosve</h1>
 <h3 align="center">A developer for fun</h3>
 
-- 🔭 Currently working @Blitz corp
+- Currently working @Blitz corp
 
-- 👨‍💻 All of my projects are available at (https://crosvelucero.com)
+- All of my projects are available at (https://crosvelucero.com)
 
-- 📫 How to reach me **crosvelucero@gmail.com**
+- How to reach me **crosvelucero@gmail.com**
 
-- 📄 La' <a href="https://drive.google.com/file/d/1Mu4j2BRyzCchek3z4lqqwJuE6A3nZhLa/view?usp=drive_link">Resume </a>
 - Leetcode grind : https://leetcode.com/u/crosve/
 
 <h3 align="left">La linkedin: </h3>
